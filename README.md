@@ -1,7 +1,7 @@
 # reinforcement learning based on CQL
 ## installation
 ```
-   $ git clone https://github.com/1999Lyd/AIPI530-take_home_project.git
+   $ git clone https://github.com/Yufei-Lei/HW3.git
    $ cd d3rlpy
    $ pip install Cython numpy # if you have not installed them.
    $ pip install -e .
