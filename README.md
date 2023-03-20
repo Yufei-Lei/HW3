@@ -2,7 +2,8 @@
 ## installation
 ```
    $ git clone https://github.com/Yufei-Lei/HW3.git
-   $ cd d3rlpy
+   $ cd HW3
+   $ pip install -r requirements.txt
    $ pip install Cython numpy # if you have not installed them.
    $ pip install -e .
 ```
